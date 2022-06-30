@@ -1,0 +1,11 @@
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\bin\Debug\ControleDeAcesso.exe.config
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\bin\Debug\ControleDeAcesso.exe
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\bin\Debug\ControleDeAcesso.pdb
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.AssemblyReference.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.Form1.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.Properties.Resources.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.GenerateResource.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.exe
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.pdb
